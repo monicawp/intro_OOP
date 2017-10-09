@@ -44,7 +44,7 @@ namespace intro_OOP
 
         public void Eat()
         {
-            if(isHungry = true)
+            if(isHungry == true)
             {
                 isHungry = false;
             }
