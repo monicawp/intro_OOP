@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\intro_OOP\intro_OOP\bin\Debug\intro_OOP.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\intro_OOP\intro_OOP\bin\Debug\intro_OOP.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\intro_OOP\intro_OOP\bin\Debug\intro_OOP.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\intro_OOP\intro_OOP\obj\Debug\intro_OOP.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\intro_OOP\intro_OOP\obj\Debug\intro_OOP.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\intro_OOP\intro_OOP\obj\Debug\intro_OOP.pdb
